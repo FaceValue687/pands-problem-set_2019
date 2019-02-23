@@ -1,5 +1,5 @@
 # Solution to problem 1.
-# This program asks the user to input any positive integer and outputs the # sum of all numbers 
+# This program asks the user to input any positive integer and outputs the sum of all numbers 
 # between one and that number.
 
 # The user should see "Your number" prompt on the screen. The value of the variable "x" is 
