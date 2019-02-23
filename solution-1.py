@@ -11,7 +11,7 @@ if x <= 0:
   print('Your number should only be a positive integer greater than 0')
 else:
    ans = 0
-   # use while loop to iterate un till zero
+   # I use while loop to iterate untill zero
    while(x > 0):
        ans += x
        x -= 1
