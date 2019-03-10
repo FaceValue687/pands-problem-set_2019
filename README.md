@@ -1,5 +1,6 @@
 # pands-problem-set_2019
 GLOSSARY
+
 assignment: statement that assigns a value to a variable/
 cmd: example of interactive shell/
 data type: category for values/
