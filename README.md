@@ -1,5 +1,5 @@
 # pands-problem-set_2019
-GLOSSARY
+BASIC GLOSSARY
 
 assignment: statement that assigns a value to a variable/
 cmd: example of interactive shell/
@@ -27,7 +27,7 @@ variable: name that refers to a value/
 
 REFERENCE: Sweigart, A. (2015). Automate the Boring Stuff with Python Practical Programming for Total Beginners. San Francisco, USA: No Starch Press
 
-FUNDAMENTAL RULES OF SYNTAX:
+FUNDAMENTAL RULES OF BASIC SYNTAX
 1. Variable names can contain both letters and numbers, but can't start with a number; keywords can't be used as variable names.
 2. The assignment statement produces no output in a script mode.
 3. In general, statement don't have values.
