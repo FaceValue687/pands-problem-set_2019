@@ -32,4 +32,5 @@ FUNDAMENTAL RULES OF SYNTAX:
 3. In general, statement don't have values.
 4. Order of operation for expressions containing more than one operator is PEMDAS: Parentheses, Exponentiation, Multiplication, Division, Addition, Substruction.
 5. Almost anywhere you can put a value you can put an arbitrary expresssion, but the left side of the statement has to be a variable name.
+
 REFERENCE: Gaddis, T. (2009). Starting out with Python. Boston, USA: Addison-Wesley
