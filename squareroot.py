@@ -1,5 +1,6 @@
 #Python Program that takes a positive floating point number as input and outputs an approximation 
 #of its square root.
+#Daria J. Ostrowska
 
 #I need the program to take input from the user in the form of a positive number: I set #a variable "num" to 
 #do that. I use the input() function as the argument for the float() method for the variable's legal values. 
@@ -7,7 +8,7 @@
 #allowed, but I want to make to remind the user that no negative values are allowed. 
 
 #float() method ensures a variable is a floating point number
-#I set the "while True:" loop"and "try-except" block to handle the illegal values
+#call for the infinite "while True:" loop that keeps executing until an exception occurs
 
 while True:
 	try:

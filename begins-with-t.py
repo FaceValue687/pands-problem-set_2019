@@ -1,6 +1,6 @@
 #Solution to problem 2
-#This program outputs whether or not today is a day that begins 
-#with the letter T
+#This program outputs whether or not today is a day that begins #with the letter T
+#Daria J. Ostrowska
 
 import datetime
 # I define the date object and the time object and use the "combine" function to build my datetime.

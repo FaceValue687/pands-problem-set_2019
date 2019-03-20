@@ -1,11 +1,12 @@
 #Python Program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12
+#Daria J. Ostrowska
 
 #I define the range of x so that only numbers between 1,000 and 10,000 (both numbers including)
 for x in range (1000, 100001):
 
 #I use the if statement to set the conditions for the execution of the program
-#I use the modulus operandus % and the comparison operator == for the x's in range divisible by 6 and the modulus operandus % and the comparison 
-#operator != for the x's in range not divisible by 12.
+#I use the modulus operandus % and the comparison operator == for the x's in range divisible by 6 and the
+#modulus operandus % and the comparison #operator != for the x's in range not divisible by 12.
 #I use the key word "and" to join the two conditions
     if x%6==0 and x%12!=0:
 
