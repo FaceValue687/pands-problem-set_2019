@@ -1,7 +1,8 @@
 #Python Program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12
 #Daria J. Ostrowska
 
-#I define the range of x so that only numbers between 1,000 and 10,000 (both numbers including)
+#I define the range of x so that only numbers between 1,000 and 10,000 (both numbers including) are taken 
+#into account:
 for x in range (1000, 100001):
 
 #I use the if statement to set the conditions for the execution of the program
