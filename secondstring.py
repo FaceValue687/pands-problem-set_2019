@@ -6,8 +6,10 @@
 #No need to provide for an exception input in case of numbers as numeric information will still be valid input
 #as the input function by default converts all the information it receives into a string
 text = input("Type something to test it out: ")
-#The program calls on the split function to store each word of the user's sentence as a separate value
-words = text.split(' ')
-#I use the slicing command [::n] to make the program to go through the list of values from the beginning to 
-#end in steps of 2 and printing the resulting output to the screen
-print(words[::2])
+#I define words to go into the new sentence to contain every second word of the original sentence with 
+#by using "text.split" + slicing command [::n]. The ".join()" method will concatenate the string. 
+words = ' '.join(text.split( )[::2])
+#Print output to the screen
+print(words)
+
+#Based on: https://www.geeksforgeeks.org/join-function-python/
