@@ -29,3 +29,6 @@ yvals2 = 2**(xvals2) #Evaluate function on xvals2
 pylab.plot(xvals2, yvals2) # Create line plot with yvals against xvals2
 
 plt.show() # Show the figures
+
+#Based on: http://courses.csail.mit.edu/6.867/wiki/images/3/3f/Plot-python.pdf
+
